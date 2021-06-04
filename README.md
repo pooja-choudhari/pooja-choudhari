@@ -4,5 +4,5 @@ Hi there. I'm Pooja 👋
 
 🌱 I'm still learning and growing in the field of data science.
 
-[![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=pooja-choudhari)](https://github.com/pooja-choudhari/github-readme-stats)
+![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=pooja-choudhari&show_icons=true&theme=radical)
 

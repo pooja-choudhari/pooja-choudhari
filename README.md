@@ -1,11 +1,12 @@
 ### Hi there. I'm Pooja 👋
 
+I'm **Pooja Choudhari**, a **Data Analyst** and **Learner**. I'm here to solve things, Learning a lot in the Process.
+![](https://komarev.com/ghpvc/?username=pooja-choudhari&color=blue)
 
-:zap: I'm a curious learner, data geek and a traveller.         
-
-🌱 I'm constantly learning and growing in the field of data science.                
+🔭 I have worked as a Data Analyst at WIDEOPENWEST.    
+🌱 I’m currently learning from Coursera, Datacamp, Fast.ai and reading Online materials.
 
 ![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=pooja-choudhari&show_icons=true&theme=radical)
 
-![Visitor Count](https://profile-counter.glitch.me/{pooja-choudhari}/count.svg)
+
 
